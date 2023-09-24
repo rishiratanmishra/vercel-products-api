@@ -1,0 +1,142 @@
+[
+  {
+    "name": "iPhone Pro",
+    "price": 19.99,
+    "featured": false,
+    "rating": 4.2,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy S21",
+    "price": 29.99,
+    "featured": true,
+    "rating": 4.5,
+    "company": "Samsung"
+  },
+  {
+    "name": "Dell XPS Laptop",
+    "price": 14.99,
+    "featured": false,
+    "rating": 3.8,
+    "company": "Dell"
+  },
+  {
+    "name": "HP Envy Printer",
+    "price": 24.99,
+    "featured": true,
+    "rating": 4.0,
+    "company": "HP"
+  },
+  {
+    "name": "Mi Note 10",
+    "price": 39.99,
+    "featured": false,
+    "rating": 4.7,
+    "company": "Mi"
+  },
+  {
+    "name": "MacBook Air",
+    "price": 49.99,
+    "featured": true,
+    "rating": 4.9,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Tab",
+    "price": 9.99,
+    "featured": false,
+    "rating": 3.5,
+    "company": "Samsung"
+  },
+  {
+    "name": "Dell Inspiron Desktop",
+    "price": 59.99,
+    "featured": true,
+    "rating": 4.4,
+    "company": "Dell"
+  },
+  {
+    "name": "HP Pavilion Laptop",
+    "price": 34.99,
+    "featured": false,
+    "rating": 4.3,
+    "company": "HP"
+  },
+  {
+    "name": "Xiaomi Redmi Note",
+    "price": 19.99,
+    "featured": true,
+    "rating": 4.6,
+    "company": "Mi"
+  },
+  {
+    "name": "Apple iPhone 12",
+    "price": 44.99,
+    "featured": false,
+    "rating": 4.1,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Watch",
+    "price": 12.99,
+    "featured": true,
+    "rating": 3.9,
+    "company": "Samsung"
+  },
+  {
+    "name": "Dell XPS 13 Laptop",
+    "price": 29.99,
+    "featured": false,
+    "rating": 4.2,
+    "company": "Dell"
+  },
+  {
+    "name": "HP Spectre Laptop",
+    "price": 54.99,
+    "featured": true,
+    "rating": 4.8,
+    "company": "HP"
+  },
+  {
+    "name": "Xiaomi Mi 11",
+    "price": 16.99,
+    "featured": false,
+    "rating": 3.7,
+    "company": "Mi"
+  },
+  {
+    "name": "iPad Pro",
+    "price": 69.99,
+    "featured": true,
+    "rating": 4.4,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Buds",
+    "price": 23.99,
+    "featured": false,
+    "rating": 3.6,
+    "company": "Samsung"
+  },
+  {
+    "name": "Dell XPS 15 Laptop",
+    "price": 79.99,
+    "featured": true,
+    "rating": 4.5,
+    "company": "Dell"
+  },
+  {
+    "name": "HP Envy Laptop",
+    "price": 18.99,
+    "featured": false,
+    "rating": 4.0,
+    "company": "HP"
+  },
+  {
+    "name": "Xiaomi Mi 10",
+    "price": 49.99,
+    "featured": true,
+    "rating": 4.7,
+    "company": "Mi"
+  }
+]
